@@ -1,0 +1,77 @@
+{
+  "name": "d8d21399-182f-4c35-b8ef-6861fbb446f0",
+  "actions": [ {
+    "userUtterance": {
+      "text": "Give me a single choice trivia question about a Sustainable Development Goal of your choice"
+    }
+  }, {
+    "toolUse": {
+      "tool": "projects/duet-ai-roadshow-415022/locations/us-central1/agents/e476af80-04b5-4c09-b1ea-09c73cf12c93/tools/5195449c-bf77-4819-b045-1c4ab2d5a858",
+      "action": "Sustainability",
+      "inputParameters": [ {
+        "name": "requestBody",
+        "value": {
+          "query": "Give me a single choice trivia question about a Sustainable Development Goal"
+        }
+      } ],
+      "outputParameters": [ {
+        "name": "200",
+        "value": {
+          "answer": "What is the only relatively unambiguous cultural goal of the Sustainable Development Goals?\n(A) Ensure inclusive and quality education for all and promote lifelong learning\n(B) Achieve gender equality\n(C) End poverty\n(D) Protect the planet",
+          "snippets": [ {
+            "text": "Sustainable Development Goals\nThe Sustainable Development Goals of the United\nNations are built around a 17-goal structure that\nappears to get away from the Triple Bottom Line.\nHowever, when examined in detail, this is actually\nnot the case. The framing sensibility remains sub\nstantially continuous with the problems of the\nmillennium goals discussed above.\nAs can be seen in Fig. 1, the Sustainable Devel\nopment Goals are oriented toward ecological con\nsiderations. Nevertheless, the tagline of the\nagenda for Sustainable Development Goals\nreveals its continuing overriding emphasis on\neconomics – for example, the United Nations pre\nsents its over-bracing rationale as “to end poverty\n[economics], protect the planet [ecology] and\nensure prosperity for all [economics].” It thus\ncontinues to define sustainable development,\nmuch like Our Common Future, in terms of eco\nnomic outcomes. Of the 17 Sustainable Develop\nment Goals, the only relatively unambiguous\ncultural goal is Goal 4: “Ensure inclusive and\nquality education for all and promote lifelong\nlearning,” and even this goal is characterized by\neducational technicalities that could be said to be\nlearning for modern economic development,\nmuch like the Millennium Development Goals.\nGoal 5, “achieve gender equality,” can also be\nlocated in the cultural domain (as we have done\nin Fig. 1), but read in the context of what the\nUnited Nations means by “equality”; it would be\nequally fitting to locate gender equality either in\nthe political (as involvement in governance) or in\nthe economic domain (as pay equity), rather than\nthe cultural.\nMore recently, the United Nations appears to\nhave gone in two directions at once. Firstly, its\nCity Prosperity Index reverses the usual process\nof setting out the domains of sustainable develop\nment within which other processes are organized. Domains of Sustainability 11 Instead, it begins with the question of prosperity\nand sets up a set of independent domains: (1) pro\nductivity, (2) infrastructure, (3) quality of life,\n(4) equity and inclusion, (5) environmental sus\ntainability, and (6) governance and legislation.\nThis is fine as an intrinsically organized set of\ndomains. They could all be argued for as neces\nsary conditions for prosperity. However, by\nstarting from the specific\nproblematic – prosperity – it makes it difficult to\nmap the process against the Sustainable Develop\nment Goals, which were set as the overriding\npolicy priority for the United Nations. It also\nmakes it almost impossible to map against the\nsecond development, which is intended to provide\noperational guidance for cities in acting sustain\nably, namely, the New Urban Agenda.\nThis second direction was marked by the 2016\nQuito Habitat III summit, when UN-Habitat pro\nclaimed the New Urban Agenda as its basis for\nframing the next 20 years of policy and practice.\nThis 22-page document is not organized structur\nally at all. It is a manifesto for sustainability that\nappears, like the Sustainable Development Goals,\nto eschew domains (Habitat III 2016), at least as\ntextually structuring devices. Laudably, the New ",
+            "title": "Domains_of_Sustainability_2016",
+            "uri": "gs://sustainable-development-goals/Domains_of_Sustainability_2016.pdf#:~:text=Sustainable%20Development%20Goals,Laudably%252C%20the%20New"
+          } ]
+        }
+      } ],
+      "inputActionParameters": {
+        "requestBody": {
+          "query": "Give me a single choice trivia question about a Sustainable Development Goal"
+        }
+      },
+      "outputActionParameters": {
+        "200": {
+          "answer": "What is the only relatively unambiguous cultural goal of the Sustainable Development Goals?\n(A) Ensure inclusive and quality education for all and promote lifelong learning\n(B) Achieve gender equality\n(C) End poverty\n(D) Protect the planet",
+          "snippets": [ {
+            "text": "Sustainable Development Goals\nThe Sustainable Development Goals of the United\nNations are built around a 17-goal structure that\nappears to get away from the Triple Bottom Line.\nHowever, when examined in detail, this is actually\nnot the case. The framing sensibility remains sub\nstantially continuous with the problems of the\nmillennium goals discussed above.\nAs can be seen in Fig. 1, the Sustainable Devel\nopment Goals are oriented toward ecological con\nsiderations. Nevertheless, the tagline of the\nagenda for Sustainable Development Goals\nreveals its continuing overriding emphasis on\neconomics – for example, the United Nations pre\nsents its over-bracing rationale as “to end poverty\n[economics], protect the planet [ecology] and\nensure prosperity for all [economics].” It thus\ncontinues to define sustainable development,\nmuch like Our Common Future, in terms of eco\nnomic outcomes. Of the 17 Sustainable Develop\nment Goals, the only relatively unambiguous\ncultural goal is Goal 4: “Ensure inclusive and\nquality education for all and promote lifelong\nlearning,” and even this goal is characterized by\neducational technicalities that could be said to be\nlearning for modern economic development,\nmuch like the Millennium Development Goals.\nGoal 5, “achieve gender equality,” can also be\nlocated in the cultural domain (as we have done\nin Fig. 1), but read in the context of what the\nUnited Nations means by “equality”; it would be\nequally fitting to locate gender equality either in\nthe political (as involvement in governance) or in\nthe economic domain (as pay equity), rather than\nthe cultural.\nMore recently, the United Nations appears to\nhave gone in two directions at once. Firstly, its\nCity Prosperity Index reverses the usual process\nof setting out the domains of sustainable develop\nment within which other processes are organized. Domains of Sustainability 11 Instead, it begins with the question of prosperity\nand sets up a set of independent domains: (1) pro\nductivity, (2) infrastructure, (3) quality of life,\n(4) equity and inclusion, (5) environmental sus\ntainability, and (6) governance and legislation.\nThis is fine as an intrinsically organized set of\ndomains. They could all be argued for as neces\nsary conditions for prosperity. However, by\nstarting from the specific\nproblematic – prosperity – it makes it difficult to\nmap the process against the Sustainable Develop\nment Goals, which were set as the overriding\npolicy priority for the United Nations. It also\nmakes it almost impossible to map against the\nsecond development, which is intended to provide\noperational guidance for cities in acting sustain\nably, namely, the New Urban Agenda.\nThis second direction was marked by the 2016\nQuito Habitat III summit, when UN-Habitat pro\nclaimed the New Urban Agenda as its basis for\nframing the next 20 years of policy and practice.\nThis 22-page document is not organized structur\nally at all. It is a manifesto for sustainability that\nappears, like the Sustainable Development Goals,\nto eschew domains (Habitat III 2016), at least as\ntextually structuring devices. Laudably, the New ",
+            "title": "Domains_of_Sustainability_2016",
+            "uri": "gs://sustainable-development-goals/Domains_of_Sustainability_2016.pdf#:~:text=Sustainable%20Development%20Goals,Laudably%252C%20the%20New"
+          } ]
+        }
+      }
+    }
+  }, {
+    "agentUtterance": {
+      "text": "What is the only relatively unambiguous cultural goal of the Sustainable Development Goals?\n(A) Ensure inclusive and quality education for all and promote lifelong learning\n(B) Achieve gender equality\n(C) End poverty\n(D) Protect the planet\nAnswer: A"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Is the good answer B?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "No, the correct answer is A."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a hint about which is the good answer?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "The correct answer is related to education."
+    }
+  }, {
+    "userUtterance": {
+      "text": "Can you give me a reference where can I find the answer to the trivia?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "You can find the answer in the document \"Domains of Sustainability 2016\" by the United Nations."
+    }
+  } ],
+  "displayName": "Trivia 0",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_PENDING",
+  "languageCode": "en"
+}
